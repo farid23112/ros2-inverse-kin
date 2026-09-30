@@ -1,5 +1,0 @@
-Pastikan package.xml memiliki:
-<depend>rclpy</depend>
-<depend>geometry_msgs</depend>
-<depend>std_msgs</depend>
-<depend>sensor_msgs</depend>
